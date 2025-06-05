@@ -5,7 +5,7 @@ import { StatusBar } from 'expo-status-bar';
 import Gleap from 'react-native-gleapsdk';
 import 'react-native-reanimated';
 
-Gleap.initialize('ogWhNhuiZcGWrva5nlDS8l7a78OfaLlV');
+Gleap.initialize('INSERT_YOUR_API_KEY_HERE');
 
 import { useColorScheme } from '@/hooks/useColorScheme';
 
